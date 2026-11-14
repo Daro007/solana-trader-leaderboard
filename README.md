@@ -5,7 +5,9 @@ leaderboard of the most active wallets, volume per venue, and a points / VIP-tie
 
 It runs fully offline on deterministic mock data, and switches to live mainnet data when a Helius API key is set.
 
-![Dashboard screenshot](docs/screenshot.png)
+![Solana Trader Leaderboard dashboard](docs/demo.gif)
+
+<sub>Mock mode, about one minute of live updates. [Full-page screenshot](docs/screenshot.png) including the volume chart.</sub>
 
 ## Features
 
